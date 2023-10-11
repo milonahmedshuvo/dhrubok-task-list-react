@@ -9,7 +9,7 @@ const TopBar = () => {
   }
   return (
 
-      <div className="flex justify-between p-2">
+      <div className="flex justify-between p-2 px-7">
         <div>
           <strong>Name:</strong> {personalInfo.name}
         </div>

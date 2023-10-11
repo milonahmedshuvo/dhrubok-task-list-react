@@ -12,7 +12,7 @@ function App() {
   const [menu, setMenu] = useState("counter");
 
   return (
-    <div className="bg-blue-50">
+    <div className="bg-blue-50 max-w-screen-xl mx-auto  ">
       <TopBar></TopBar>
       <div className="flex p-16">
         <div className="w-3/12 border-r-2">

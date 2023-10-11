@@ -2,9 +2,9 @@ import React from "react";
 
 const Footer = () => {
   const universityInfo = {
-    universityName: "Your University Name",
-    subject: "Your Subject",
-    passingYear: "Your Passing Year",
+    universityName: "National University",
+    subject: "Islamic History and culture",
+    passingYear: "2021",
   };
 
   return (
